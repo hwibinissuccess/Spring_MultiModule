@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring_MultiModule.iml" filepath="$PROJECT_DIR$/.idea/Spring_MultiModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/module-common.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/multimodule.module-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/multimodule.module-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/812580705/multimodule.module-common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/812580705/multimodule.module-common.main.iml" />
     </modules>
   </component>
 </project>
